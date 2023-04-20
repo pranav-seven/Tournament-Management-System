@@ -1,0 +1,31 @@
+[
+    {
+        "Semi-final": [
+            {
+                "Away": "liv",
+                "Home-score": "4",
+                "Away-score": "1",
+                "Home": "mci",
+                "Winner": "mci"
+            },
+            {
+                "Away": "ars",
+                "Home-score": "8",
+                "Away-score": "2",
+                "Home": "mnu",
+                "Winner": "mnu"
+            }
+        ]
+    },
+    {
+        "Final": [
+            {
+                "Away": "mnu",
+                "Home-score": "3",
+                "Away-score": "6",
+                "Home": "mci",
+                "Winner": "mnu"
+            }
+        ]
+    }
+]

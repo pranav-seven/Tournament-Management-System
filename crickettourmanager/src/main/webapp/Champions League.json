@@ -1,0 +1,63 @@
+[
+    {
+        "Quarter-final": [
+            {
+                "Away": "Real Madrid",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Napoli",
+                "Winner": null
+            },
+            {
+                "Away": "AC Milan",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Bayern Munich",
+                "Winner": null
+            },
+            {
+                "Away": "Manchester City",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Inter Milan",
+                "Winner": null
+            },
+            {
+                "Away": "Benfica",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Chelsea",
+                "Winner": null
+            }
+        ]
+    },
+    {
+        "Semi-final": [
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            }
+        ]
+    },
+    {
+        "Final": [
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            }
+        ]
+    }
+]

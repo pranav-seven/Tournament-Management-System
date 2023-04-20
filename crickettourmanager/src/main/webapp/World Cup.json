@@ -1,0 +1,239 @@
+[
+    {
+        "Round of 32": [
+            {
+                "Away": "Russia",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Iran",
+                "Winner": null
+            },
+            {
+                "Away": "Ivory Coast",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Brazil",
+                "Winner": null
+            },
+            {
+                "Away": "Belgium",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Ghana",
+                "Winner": null
+            },
+            {
+                "Away": "Algeria",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Greece",
+                "Winner": null
+            },
+            {
+                "Away": "Columbia",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Chile",
+                "Winner": null
+            },
+            {
+                "Away": "Argentina",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Honduras",
+                "Winner": null
+            },
+            {
+                "Away": "Ecuador",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Uruguay",
+                "Winner": null
+            },
+            {
+                "Away": "Mexico",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Netherlands",
+                "Winner": null
+            },
+            {
+                "Away": "Cameroon",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Spain",
+                "Winner": null
+            },
+            {
+                "Away": "Bosnia and Herzegovina",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "England",
+                "Winner": null
+            },
+            {
+                "Away": "Portugal",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Croatia",
+                "Winner": null
+            },
+            {
+                "Away": "Germany",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "South Korea",
+                "Winner": null
+            },
+            {
+                "Away": "Costa Rica",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Italy",
+                "Winner": null
+            },
+            {
+                "Away": "United States of America",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "France",
+                "Winner": null
+            },
+            {
+                "Away": "Nigeria",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Japan",
+                "Winner": null
+            },
+            {
+                "Away": "Switzerland",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "Australia",
+                "Winner": null
+            }
+        ]
+    },
+    {
+        "Round of 16": [
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            }
+        ]
+    },
+    {
+        "Quarter-final": [
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            }
+        ]
+    },
+    {
+        "Semi-final": [
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            },
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            }
+        ]
+    },
+    {
+        "Final": [
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            }
+        ]
+    }
+]

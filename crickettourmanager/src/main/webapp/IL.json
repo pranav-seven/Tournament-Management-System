@@ -1,0 +1,31 @@
+[
+    {
+        "Semi-final": [
+            {
+                "Away": "rcb",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "mi",
+                "Winner": null
+            },
+            {
+                "Away": "srh",
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": "csk",
+                "Winner": null
+            }
+        ]
+    },
+    {
+        "Final": [
+            {
+                "Away": null,
+                "Home-score": -1,
+                "Away-score": -1,
+                "Home": null,
+                "Winner": null
+            }
+        ]
+    }
+]
